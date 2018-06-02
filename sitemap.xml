@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://swatt882.github.io/post/first-post/</loc>
+      <lastmod>2018-06-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://swatt882.github.io/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
@@ -194,7 +203,7 @@
     <url>
     
       <loc>https://swatt882.github.io/categories/r/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <lastmod>2018-06-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -205,6 +214,16 @@
     
       <loc>https://swatt882.github.io/tags/r-markdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://swatt882.github.io/categories/regression/</loc>
+      <lastmod>2018-06-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
